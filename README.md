@@ -1,27 +1,27 @@
 # Code-2
 
-## Startseite
-html{
-    color: white;	
-}
-header{
-	background-color: white;
-	margin-left: 20px;
-}
-h1{
-	float: left;
-	color: black;
-}
-body{
-   background-color: white;
-   margin-left: 0;
-   margin-right: 0;
-   font-size: 17px;
-}
-nav{
-	background-color: grey;
-}
-section{
+## Startseite<br>
+html{<br>
+    color: white;<br>	
+}<br>
+header{<br>
+	background-color: white;<br>
+	margin-left: 20px;<br>
+}<br>
+h1{<br>
+	float: left;<br>
+	color: black;<br>
+}<br>
+body{<br>
+   background-color: white;<br>
+   margin-left: 0;<br>
+   margin-right: 0;<br>
+   font-size: 17px;<br>
+}<br>
+nav{<br>
+	background-color: grey;<br>
+}<br>
+section{<br>
 	background-color: green;
 	float: left;
 	width: 63%;7
