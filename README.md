@@ -22,40 +22,40 @@ nav{<br>
 	background-color: grey;<br>
 }<br>
 section{<br>
-	background-color: green;
-	float: left;
-	width: 63%;7
-	margin: 0 1,5%;
-	clear: left;
-}
-aside{
-	background-color: red;
-	float: right;
-	margin: 0 1,5%;
-	width: 34%;
-}
-footer{
-	background-color: white;
-	clear: both;
-	margin-left: 0;
-	margin-right: 0;
-	color: black;
-	float: left;
-	width: 100%;
-}
-small{
-	float: right;
-	background-color: grey;
-	width: 100%;
-}
-a{
-	color: black;
-}
-.navigation {
-	float: right;
-	width: 40%;
-	margin-top: 67px;
-}
-.Name{
-	float: left;
-}
+	background-color: green;<br>
+	float: left;<br>
+	width: 63%;7<br>
+	margin: 0 1,5%;<br>
+	clear: left;<br>
+}<br>
+aside{<br>
+	background-color: red;<br>
+	float: right;<br>
+	margin: 0 1,5%;<br>
+	width: 34%;<br>
+}<br>
+footer{<br>
+	background-color: white;<br>
+	clear: both;<br>
+	margin-left: 0;<br>
+	margin-right: 0;<br>
+	color: black;<br>
+	float: left;<br>
+	width: 100%;<br>
+}<br>
+small{<br>
+	float: right;<br>
+	background-color: grey;<br>
+	width: 100%;<br>
+}<br>
+a{<br>
+	color: black;<br>
+}<br>
+.navigation {<br>
+	float: right;<br>
+	width: 40%;<br>
+	margin-top: 67px;<br>
+}<br>
+.Name{<br>
+	float: left;<br>
+}<br>
